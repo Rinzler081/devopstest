@@ -1,0 +1,15 @@
+{
+  "name": "rr-ssh",
+  "version": "0.1.0",
+  "author": "rr",
+  "summary": "ssh stuff",
+  "license": "Apache-2.0",
+  "source": "https://github.com/Rinzler081/devopstest/tree/master",
+  "project_page": "https://github.com/Rinzler081/devopstest/tree/master",
+  "issues_url": "https://github.com/Rinzler081/devopstest/tree/master/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
